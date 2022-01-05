@@ -2,7 +2,7 @@ package br.com.vania.banco;
 
 public class Conta {
 
-	int agencia;
+    int agencia;
     int numero;
     double saldo;
 
